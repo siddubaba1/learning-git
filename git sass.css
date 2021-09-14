@@ -1,9 +1,5 @@
-h1 {
-  color: darkorange;
-  color: pink;
-}
-
-h2 > p {
-  color: crimson;
-  font-size: 24px;
-}/*# sourceMappingURL=git sass.css.map */
+h1{color: darkgoldenrod;
+font-size: large;}
+h2{color: crimson;
+font-size: large;}
+p{color: aqua;}
